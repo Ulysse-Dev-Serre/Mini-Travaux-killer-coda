@@ -73,9 +73,6 @@ Vous verrez : Dart SDK version: 3.x.x
 - Taper : `dart --version`
 
 
-
-### Sauvegarder (Ctrl+S)
-
 ### Dans Git Bash, taper :
 ```bash
 dart test.dart
