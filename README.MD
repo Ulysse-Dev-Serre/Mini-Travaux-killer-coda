@@ -72,19 +72,7 @@ Vous verrez : Dart SDK version: 3.x.x
 - Choisir Git Bash
 - Taper : `dart --version`
 
-### Créer votre premier fichier
-```bash
-mkdir mon_projet
-cd mon_projet
-code test.dart
-```
 
-### Dans VSCode, écrire :
-```dart
-void main() {
-  print('Bonjour Dart!');
-}
-```
 
 ### Sauvegarder (Ctrl+S)
 
