@@ -1,6 +1,10 @@
-# Semaine 1 - Variables, Types de Données et Fonctions
+# Semaine 1 
+
+Les photos  étapes de la semaine 1 sont dans le dossier images.  tout les fichiees dart dans dart_file
+
+Variables, Types de Données et Fonctions
 ```bash
-cd semaine1
+cd semaine1 dart_file
 ```
 ## Partie 1 : Variables et Types de Données
 

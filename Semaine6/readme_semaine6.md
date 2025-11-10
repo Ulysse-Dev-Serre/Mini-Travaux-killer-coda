@@ -1,4 +1,6 @@
-# Semaine 6 - Programmation Asynchrone (Future & Async/Await)
+# Semaine 6 
+Les photos étapes de la semaine 6 sont dans le dossier images, tout les fichiees dart dans dart_file
+Programmation Asynchrone (Future & Async/Await)
 
 ## Étape 0 : Introduction à l'Asynchrone
 
