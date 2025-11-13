@@ -5,10 +5,12 @@ cd semaine5
 
 ## Étape 1 : Classes et Objets(Classe = Plan / Modèle ，Objet = Instance créée à partir du plan)
 ### Exercice 1 : Créer une classe Personne et montrer comment instancier et utiliser ses objets.
+![Exercice 1 : Résultat](screenshots/premiere_classe.png)
 ```bash
-dart premier_classe.dart
+dart premiere_classe.dart
 ```
 ### Exercice 2 : Créer une classe Produit et démontrer affichage, disponibilité et calcul de la valeur du stock.
+![Exercice 2 : Résultat](screenshots/produit.png)
 ```bash
 dart produit.dart
 ```
@@ -27,6 +29,7 @@ Fichier : `heritage.dart`
 
 ## Étape 4 : Défi - Système de Gestion
 ### Exercice 7 : Projet de gestion du personnel montrant héritage et polymorphisme via des objets Employe.
+![Exercice 7 : Résultat](screenshots/personnel.png)
 ```bash
 dart personnel.dart
 ```
